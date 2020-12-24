@@ -1,0 +1,16 @@
+WordPad can format and print text, including fonts, bold, italic,
+colored, and centered text, etc., but lacks intermediate features such
+as a spell checker, thesaurus, and the creation of tables. However
+WordPad can read, render, and save many Rich Text Format (RTF)
+features that it cannot create such as tables, strikeout, superscript,
+subscript, "extra" colors, text background colors, numbered lists,
+right or left indent, quasi-hypertext and URL linking, and various
+line spacings. Among its advantages are low system-resource usage,
+simplicity, and speed. Pasting into or from an HTML document such as
+from the internet or email will typically automatically convert most
+or all of it to RTF (although this is partially browser-dependent). As
+such, WordPad is well suited for taking notes, writing letters and
+stories, or for usage in various tablets, PCs, and smart
+phones. However, WordPad is underpowered for work that relies heavily
+on graphics or typesetting such as most publishing-industry
+requirements for rendering final hard copy.
